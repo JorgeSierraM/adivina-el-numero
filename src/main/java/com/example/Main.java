@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
-        final int NUMERO_MAX_INTENTOS = 7;
+        final int NUMERO_MAX_INTENTOS = 3;
         int intentos;
         int respuesta;
 
